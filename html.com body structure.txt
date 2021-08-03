@@ -1,0 +1,23 @@
+<body>
+<h1>Welcome to my website</h1> 
+<p>welcome to my website</p>
+<a href="http:/www.google.com" target="_blank">about</a>
+<a href="/Pages/about.html" target="_blank">portfolio</a>
+<a href="./Pages/contact.html" target="_blank">contacts</a>
+<h1 style="color:blue;font:size 40px;background-color: chocolate;">I am Teboho</h1>
+<h3>front-end developer</h3> 
+<p>I am a designer and i will be introducing you into my design world</p> 
+<p class="red">paragraph 1 color red</p>
+<p>paragraph 2 color green</p>
+<p id="demo">id selector</p>
+
+<P>Hello</P>
+<p>World</p>
+<a href="#">hello</a>
+<a href="#">world</a> 
+<h1>styling text tutorial</h1>
+<p class="font-style"> There are two catergories of font styling </p>
+<div class="parent">
+
+ <p class="em"> using em unit</p>   
+</div>  
